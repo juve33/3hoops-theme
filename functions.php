@@ -322,6 +322,7 @@ function threehoops_register_scripts() {
 
     $scripts = array(
         'main',
+        'navigation',
     );
 
     foreach ( $scripts as $script ) :
